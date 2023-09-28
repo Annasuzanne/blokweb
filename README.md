@@ -20,7 +20,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Je startniveau:
   Blauw
   #### Je focus:
-  Responsive
+  Surface laag
  
 </details>
 
@@ -39,12 +39,11 @@ Rituals - https://www.rituals.com/nl-nl/home
 
   #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage - https://www.rituals.com/nl-nl/home 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
-  <img scr="readme-images/1694638370203 - Snelkoppeling.lnk">
+  <img src="/readme-images/homepagina.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/" width="375px" alt="omschrijving van de pagina">
   <img scr="basiswebsite\images\1694638972420 - Snelkoppeling.lnk">
  
 </details>
@@ -69,8 +68,8 @@ De site geeft veel foutmeldingen in een
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdownschets 1" width="375px" alt="breakdown van de hele pagina">
-  <img scr="basiswebsite/images/breakdownschets 2" width="375px" alt="breakdown van de tweede pagina">
+  <img src="/readme-images/breakdownschets 1.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img scr="/readme-images/breakdownschets 2.jpg" width="375px" alt="breakdown van de tweede pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -108,10 +107,7 @@ De site geeft veel foutmeldingen in een
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Ik loop nog best wel achter en ik ga goed meedoen met de opdrachten zodat ik de stof beter ga begrijpen. 
 
 </details>
 
@@ -125,7 +121,10 @@ De site geeft veel foutmeldingen in een
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ Ik heb meer gewerkt aan de opdrachten en tot nu toe heeft dat best wel geholpen. 
+  <img src="/readme-images/week3-1.png" width="375px" alt="screenschot week3">
+    <img src="/readme-images/week3-2.png" width="375px" alt="screenshot week3">
+      <img src="/readme-images/week3-3.png" width="375px" alt="screenshot week3">
 
 
   ### Agenda voor meeting
@@ -178,11 +177,11 @@ De site geeft veel foutmeldingen in een
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Fleur          | Kenza              | student 3    | student 4        |
+  |                |                    |              |                  |
+  | Hamburgermenu  | geen vragen        |              |                  |
+  |                |                    |              |                  |
+  |                |                    |              |                  |
 
 
   ### Verslag van meeting
